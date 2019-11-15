@@ -1,0 +1,2 @@
+include ':app', ':jpermissionlibrary'
+rootProject.name='JPermission'
